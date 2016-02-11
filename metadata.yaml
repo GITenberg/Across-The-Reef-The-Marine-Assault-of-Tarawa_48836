@@ -1,0 +1,25 @@
+_repo: Across-The-Reef-The-Marine-Assault-of-Tarawa_48836
+creator:
+  author:
+    agent_name: Alexander, Joseph H.
+    birthdate: 1938
+    deathdate: 2014
+    gutenberg_agent_id: '44993'
+    url: http://www.gutenberg.org/2009/agents/44993
+description: ''
+gutenberg_bookshelf: World War II
+gutenberg_issued: '2015-04-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Marines in World War II, Commemorative Series
+subjects:
+- !lcc 'D731'
+- !lcsh 'United States. Marine Corps -- History -- World War, 1939-1945'
+- !lcsh 'Tarawa, Battle of, Kiribati, 1943'
+title: 'Across The Reef: The Marine Assault of Tarawa'
+url: http://www.gutenberg.org/ebooks/48836
